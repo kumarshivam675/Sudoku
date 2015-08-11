@@ -12,7 +12,7 @@ Rule 2: If there is a number which can go into only one cell, then assign that n
 '''
 
 import sudoku_a
-hash1=sudoku_a.form_hash()
+hash1=graph-coloring.form_hash()
 possible_hash={}
 
 arr=[['e', 6, 'e', 1, 'e', 4, 'e', 5, 'e'],      
